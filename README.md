@@ -1,7 +1,7 @@
-# Heroku-18 app
+# Example Heroku-18 app
 
 ```bash
-heroku info
+$ heroku info
 === ancient-eyrie-54549
 Auto Cert Mgmt: false
 Dynos:
