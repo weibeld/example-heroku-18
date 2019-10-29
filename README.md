@@ -1,5 +1,7 @@
 # Example Heroku-18 app
 
+Example Heroku app using the [Heroku-18](https://devcenter.heroku.com/articles/heroku-18-stack) stack.
+
 ## App
 
 ```bash
@@ -36,3 +38,7 @@ Heroku app is now restored:
 ```bash
 heroku info
 ```
+
+## See also
+
+[Example Heroku-16 app](https://github.com/weibeld/example-heroku-16)
